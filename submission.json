@@ -1,0 +1,7 @@
+{
+  "prompt": "A deeply emotional cinematic scene of a thin stray dog sitting in heavy rain on an Indian street at night, shivering with visible ribs and head lowered in exhaustion. Around it, blurred human figures walk past with umbrellas, deliberately avoiding the dog, stepping around it without looking. Their faces are hidden or turned away, emphasizing neglect and indifference. The wet road reflects lights, and in the reflection beneath the dog, its image appears as a skeletal version of itself, symbolizing hidden suffering and hunger. Faint silhouettes of other stray dogs appear in the distant background, barely visible through the rain. No text, no labels, no charts. Highly realistic, cinematic lighting, shallow depth of field, melancholic atmosphere, symbolic storytelling. --no infographic, no charts, no text",
+  "model": "Midjourney v6.1",
+  "dataset_name": "Animal Cruelty Complaints in India",
+  "dataset_url": "https://awbi.gov.in/Cruelty",
+  "insight": "Animal cruelty and neglect toward stray dogs in India often goes unnoticed despite frequent complaints and suffering."
+}
